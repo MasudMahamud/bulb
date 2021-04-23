@@ -6,7 +6,7 @@
 
 #light-hide{
     text-align: center;
-   display: none;
+    display: none;
 }
 
 #light-show img{
@@ -15,7 +15,6 @@
 
 #light-hide img{
     width: 350px;
-    
 }
 
 .btb-btn {
