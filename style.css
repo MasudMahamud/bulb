@@ -1,0 +1,38 @@
+
+#light-show{
+    text-align: center;
+    display: none;
+}
+
+#light-hide{
+    text-align: center;
+   display: none;
+}
+
+#light-show img{
+    width: 180px;
+}
+
+#light-hide img{
+    width: 350px;
+    
+}
+
+.btb-btn {
+    margin-top: 80px;
+    text-align: center;
+}
+
+button#show {
+    background: red;
+    color: white;
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+
+button#hide {
+    background: rgb(123, 22, 22);
+    color: white;
+    border-radius: 3px;
+    padding: 5px 15px;
+}
